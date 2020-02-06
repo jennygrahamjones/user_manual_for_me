@@ -1,67 +1,60 @@
-# User Manual For Gidi Morris
+# User Manual For Jenny Graham-Jones
 
 A User Manual for working with me.
 
 ## Conditions I like to work in
 
-I work most effectively when I have some form of white noise.
-Buzzing well-lit offices or coffee shops suit me well, while quiet dark rooms actually make it harder for me to slip into deep work.
+I'm happy in an open-plan office, as long as there are some quiet spaces and some spaces where people can go to chat. If possible, I like to work alongside my team's stakeholders, to make it easier to have conversations about any shared goals we have. 
 
-For this reason I usually work from the Elastic London office.
+I prefer to pair program, whenever possible. I'm happy to mob or swarm on a task occasionally, although I prefer to work in groups of no more than three on a single task.
+
+If I'm working on my own, I'll probably pop a pair of headphones in so I don't get distracted by any conversations or noise around me.
 
 ## The times/hours I like to work
 
-I'm a morning person and aim to be begin working some time between 7:00 and 7:30, whether from home or from my preferred location outside of home.
-
-I'm often active in the evenings, so usually call it a day by 17:00-18:00.
+I prefer to start work a little later in the morning, from 9:30 onwards, but if I'm in a team of early starters I'm happy to adjust my hours to match the team. 
 
 ## The best ways to communicate with me
 
-_Slack_ is the quickest way to get a response from me.
-Please don't hesitate to reach out at any time, as I'll put the phone on silent if I'm busy, and am always happy to help a colleague out of hours. I find the idea of you being blocked on something that I could be helping with more disturbing than the idea of being asked for thing out of hours.
+However you like! Face-to-face, email, chat, telephone, whatever works best for you. I will monitor my email and chat (Google Chat, Discord, Slack, whatever service we're using) fairly closely throughout the day, so you can be confident that I'll get back to you promptly. 
 
-I don't like answering my phone, as I'm often in spaces which are either too noisy for that or so quiet that my conversation would be _forced_ on those around me.
-I do read texts though, so SMS or WhatsApp are cool.
+If you want to talk to me face-to-face, feel free to approach me any time, even if I'm working on my own and look like I'm in the middle of something. I'll let you know if I need some time to finish what I'm doing before we can talk.
 
-I stay on top of my emails daily, so for anything non-urgent, feel confident that your email will get a reply within a workday or so.
+I like to have some advanced notice if you want to talk about something in depth, so I can have a think about the question or topic and put my thoughts in order. For example, if you're inviting me to a meeting, I'd prefer if the meeting contains some outline of what you need from me or some other useful context.
 
 ## The ways I like to receive feedback
 
-Be direct.
-I am much more comfortable with candor and difficult conversations, than with things being left unspoken, so please just be straight with me.
+As with any other communication, I don't mind whether this is face-to-face, in an email, etc. Ideally, I'd like you to follow up any constructive feedback you give me with an email to confirm the key points. If you don't, I'll probably email you, just to check that I've understood how I can improve, what I can do differently, etc.
 
-I consider all feedback a learning opportunity, and do my very best not to get defensive.
-You can [read my blog](https://gidi.io/2018/08/04/feedback-and-cake.html) to learn about my ideas on effective feedback and that should help you figure out how best to talk with me about such things.
-
-Face to face is ideal, in lieu of that a Zoom call and if that's hard, then a phone call.
-
-I have a hard time taking feedback in asynchronous form, such as emails or instant messaging, so please, focus in synchronous forms of communication.
+If possible, prefer to receive feedback from the person themselves, rather than through a third-party.
 
 ## Things I need
 
-Clarity and over communication.
-I have a hard time following through on tasks when I don't understand _why_ we're doing them, and so I crave involvement in as many conversations as possible and as much background information as possible before delving into a task.
+Clarity. I like to know _why_ I'm doing something. If possible, I like to be able to see a problem in action before trying to solve it. Ideally, if it's something someone else has experienced, I'd like to spend time with them and hear in their own words what the problem is. If I'm working in a complex problem space, it also helps me to have access to good documentation that clearly explains the problem.
 
-This is predominantly because I like to know that I'm solving the _right_ problem, rather than a perceived one or a symptom.
+Visibility. I need an easy way to see what my team is working on. Whether that's a load of sticky notes on a wall, a spreadsheet, or a tool like Trello or Jira, I work better when I have a way of easily visualising what the team is working towards. Without this, I can struggle to feel part of the team or have an understanding of our goals.
+
+I get to grips with new concepts best by hands on practice, supplemented with some reading. In order of most to least effective, here are the ways I learn:
+
+* Kinesthetic (hands-on)
+* Read/Write 
+* Visual (diagrams)
+* Auditory (verbal)
+
+Although a verbal explanation can provide helpful clarity for me, it's not the ideal way for me to pick up a new concept. 
 
 ## Things I struggle with
 
-I'm an introvert, and need time to recharge between conversations, but I'm also a social creature, and find it hard to go through full days without having some kind of collaborative interaction with colleagues.
-
-If I don't understand the wider purpose behind why we are doing something, I find it hard to engage with it.
-
-I dislike Gatekeeping, and will always prefer to incur some discomfort by letting it through the gate, whenever it is something that can be addressed at a later point. This is true for hiring (They seem like a positive fit but lack something that we need? Lets bring them in and empower them to fill the gaps) and is equally true for the ways in which we work (How often have you heard the phrase "That's how we've always done it"? Lets try new ideas and iterate on them instead of just saying "No!").
-
-Organising team social things. I really struggle at this, please don't ask me to organise anything like that.
+Ambiguity. I like to know how to measure success, in any given task, and not having a clear understanding of what that means up front is hard for me. 
 
 ## Things I love
 
-I love collaborating on things, be it brain storming sessions, pair programming or random conversations about things.
+Collaborating. I enjoy working the most when I'm working with other people. 
 
-I like hearing about other people's challenges, it helps me get comfortable with my own, and gives me opportunities to share my own experience and ideas.
-
-I love teaching, mentor individuals outside of the workplace, and am always open to taking on new mentees (time permitted).
+Documentation. It doesn't need to be _War and Peace_, but I like to keep a record of what I'm doing, why, and what I'll be doing next. 
 
 ## Other things to know about me
 
-I bring my whole self to work, always, and am extremely uncomfortable when I can't do so.
+I'm from Newcastle, in the North East of England. People from Newcastle are known as [Geordies](https://en.wikipedia.org/wiki/Geordie) and have a fairly distinctive [accent](https://www.youtube.com/watch?v=phIR36Tmcrg). My accent isn't _too_ strong, but if you have trouble understanding what I'm saying, please don't hesitate to ask me to repeat myself or to explain a turn of phrase that might be unfamiliar. Having lived most of my life in Newcastle, I don't always realise which idioms don't make sense outside of Newcastle.
+
+I'm an avid reader, especially of science-fiction and fantasy. I love to play games of all kinds: video games, board games, and tabletop games like [Dungeons and Dragons](https://www.polygon.com/2018/5/26/17153274/dnd-how-to-play-dungeons-dragons-5e-guide-spells-dice-character-sheets-dm).
