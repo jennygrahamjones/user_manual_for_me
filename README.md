@@ -28,6 +28,8 @@ As with any other communication, I don't mind whether this is face-to-face, in a
 
 If possible, prefer to receive feedback from the person themselves, rather than through a third-party.
 
+In true [British fashion](https://www.theguardian.com/uk/2006/may/16/britishidentity), I'm fairly self-deprecating and find it a little embarassing to be praised or congratulated in front of large groups people. I'm trying to be better at accepting compliments, so if you'd prefer to give me some positive feedback in a team/group setting, go for it. 
+
 ## Things I need
 
 Clarity. I like to know _why_ I'm doing something. If possible, I like to be able to see a problem in action before trying to solve it. Ideally, if it's something someone else has experienced, I'd like to spend time with them and hear in their own words what the problem is. If I'm working in a complex problem space, it also helps me to have access to good documentation that clearly explains the problem.
