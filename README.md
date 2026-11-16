@@ -4,15 +4,17 @@ A User Manual for working with me.
 
 ## Conditions I like to work in
 
-I'm happy in an open-plan office, as long as there are some quiet spaces and some spaces where people can go to chat. If possible, I like to work alongside my team's stakeholders, to make it easier to have conversations about any shared goals we have. 
+I prefer to work remotely, from my home office in Ontario. 
 
-I prefer to pair program, whenever possible. I'm happy to mob or swarm on a task occasionally, although I prefer to work in groups of no more than three on a single task.
+If we're in an office, I'm happy in somewhere open-plan, as long as there are some quiet spaces and some spaces where people can go to chat. If possible, I like to work alongside (or communicate regularly with ) the users of whatever I'm building, to make it easier to have conversations about any shared goals we have. 
 
-If I'm working on my own, I'll probably pop a pair of headphones in so I don't get distracted by any conversations or noise around me.
+I like to pair program and am happy to mob or swarm on a task occasionally, although I prefer to work in groups of no more than three on a single task.
+
+If I'm working on my own, I'll pop a pair of headphones in (or potentially mute my email/chat notifications) so I don't get distracted by any conversations or noise around me. 
 
 ## The times/hours I like to work
 
-I prefer to start work a little later in the morning, from 9:30 onwards, but if I'm in a team of early starters I'm happy to adjust my hours to match the team. 
+I prefer to start work a little earlier in the morning, from 8:00am or 8:30am onwards.
 
 ## The best ways to communicate with me
 
@@ -36,14 +38,7 @@ Clarity. I like to know _why_ I'm doing something. If possible, I like to be abl
 
 Visibility. I need an easy way to see what my team is working on. Whether that's a load of sticky notes on a wall, a spreadsheet, or a tool like Trello or Jira, I work better when I have a way of easily visualising what the team is working towards. Without this, I can struggle to feel part of the team or have an understanding of our goals.
 
-I get to grips with new concepts best by hands on practice, supplemented with some reading. In order of most to least effective, here are the ways I learn:
-
-* Kinesthetic (hands-on)
-* Read/Write 
-* Visual (diagrams)
-* Auditory (verbal)
-
-Although a verbal explanation can provide helpful clarity for me, it's not the ideal way for me to pick up a new concept. 
+I get to grips with new concepts best by hands on practice, supplemented with some reading. Although a verbal explanation can provide helpful clarity for me, it's not the ideal way for me to pick up a new concept. 
 
 ## Things I struggle with
 
